@@ -1,5 +1,5 @@
-var pereson = {
+var user = {
     name: "Bang",
     age: 28
 };
-console.log({ pereson: pereson });
+console.log(user);
