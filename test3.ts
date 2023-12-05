@@ -1,11 +1,11 @@
-interface Person {
+interface UserInfo {
   name : string;
   age : number;
 }
 
-const pereson : Person = {
+const user : UserInfo = {
   name : "Bang",
   age : 28
 };
 
-console.log({pereson});
+console.log(user);
